@@ -5,7 +5,7 @@ const uuid = require('../helpers/uuid');
 // GET Route for retrieving all the tips
 notesRouter.get('/', (req, res) => {
   console.info(`${req.method} request received for note`);
-  readFromFile('../db/db.json').then((data) => res.json(JSON.parse(data)));
+  readFromFile('./db/db.json').then((data) => res.json(JSON.parse(data)));
 });
 
 // POST Route for a new UX/UI tip
@@ -23,7 +23,7 @@ notesRouter.post('/', (req, res) => {
       note_id: uuid(),
     };
 
-    readAndAppend(newNote, '../db/db.json');
+    readAndAppend(newNote, './db/db.json');
     res.json(`Note added successfully`);
   } else {
     res.error('Error in adding a note');
