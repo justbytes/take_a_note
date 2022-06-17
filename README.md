@@ -3,46 +3,41 @@
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 ## Description
-My motivation for this project was to create something to help me keep track of my random thoughts. I built it so when I have a million dollar idea I can write it down and it will always stay on the site so I don't lose it. This solves my problem of alwasys forgetting great ideas. I learned how to use paths. 
 
-## Table of Contents 
+This app was built for users that need to take a quick note on the fly. Once you have written your note you can hit the save button which will keep that note on the screen even if you refresh or leave the page.
+
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 
 ### Installation
 
 To install necessary dependencies, run the following command
+
 ```md
     npm init -y
-    npm i 
+    npm i
 ```
-
 
 ### Usage
 
+To start the app localy run the following command:
+
 ```md
-    Requires node.js to run 
+    npm run start
 ```
 
+### Contributing
 
-### Contrnode ibuting
-Fork repo and submit pull request.
-
-### Tests
-
-To run tests, run the following command:
-
-There are no tests for this site.
+If you would like to contribute to this app please fork the repo and submit a pull request.
 
 ### Questions
-Please reach out to me on github for any questions. Github username: jessemarino
 
-![screenshot](./public/assets/images/Screen%20Shot%202022-04-28%20at%2011.00.06%20PM.png)
+If you have any questions please reach out via Github, my username is jessemarino.
 
-![screenshot](./public/assets/images/Screen%20Shot%202022-04-28%20at%2011.00.16%20PM.png)
+![screenshot](./public/assets/images/123.png)
 
 URL to page: https://limitless-sea-73688.herokuapp.com/
