@@ -4,7 +4,7 @@
 
 ## Description
 
-This app was built for users that need to take a quick note on the fly. Once you have written your note you can hit the save button which will keep that note on the screen even if you refresh or leave the page.
+This app was built for users that need to take a quick note on the fly. Once you have written your note you can hit the save button which will keep that note on the screen even if you refresh or leave the page. After adding a note you can click on it to view it. If you are finished with a note you can delete and make room for more notes.
 
 ## Table of Contents
 
