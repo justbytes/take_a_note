@@ -10,8 +10,6 @@ This app was built for users that need to take a quick note on the fly. Once you
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [Questions](#questions)
 
 ### Installation
 
@@ -30,13 +28,6 @@ To start the app localy run the following command:
     npm run start
 ```
 
-### Contributing
-
-If you would like to contribute to this app please fork the repo and submit a pull request.
-
-### Questions
-
-If you have any questions please reach out via Github, my username is jessemarino.
 
 ![screenshot](./public/assets/images/123.png)
 
